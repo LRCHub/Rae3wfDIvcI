@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "恋人じゃなくなった日",
+  "base_artist": "優里",
+  "createdAt": "2026-01-01T13:02:14.871841Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋人じゃなくなった日",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/01_恋人じゃなくなった日_優里.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋人じゃなくなった日",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/02_恋人じゃなくなった日_優里.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋人じゃなくなった日",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/03_恋人じゃなくなった日_Yuuri.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋人じゃなくなった日",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/04_恋人じゃなくなった日_Yuuri.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "恋人じゃなくなった日",
+      "artist": "DiFa",
+      "has_synced": false,
+      "path": "select/05_恋人じゃなくなった日_DiFa.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "恋人じゃなくなった日 - The day we become eternal love,not lovers",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/06_恋人じゃなくなった日_-_The_day_we_become_eternal_love,not_lovers_Yuuri.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "恋人じゃなくなった日 - The day we become eternal love,not lovers",
+      "artist": "Yuuri",
+      "has_synced": false,
+      "path": "select/07_恋人じゃなくなった日_-_The_day_we_become_eternal_love,not_lovers_Yuuri.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "恋人じゃなくなった日",
+      "artist": "Yuuri 優里",
+      "has_synced": false,
+      "path": "select/08_恋人じゃなくなった日_Yuuri_優里.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋人じゃなくなった日",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_01_恋人じゃなくなった日_優里.txt"
+    }
+  ]
+}
